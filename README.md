@@ -19,17 +19,17 @@ A **fresh graduate** with a passion for **web development** and software enginee
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**:
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 **Other Technologies**:
-- ![C Badge](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-- ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![PHP Badge](https://img.shields.io/badge/PHP-8993BE?style=flat&logo=php&logoColor=white)
-- ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-8993BE?style=flat&logo=php&logoColor=white)
+![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 🌱 Current Goals
 - Continue learning and improving my skills in **back-end** and **front-end** web development.
