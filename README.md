@@ -37,9 +37,9 @@ A **fresh graduate** with a passion for **web development** and software enginee
 - Build scalable and optimized web applications using modern frameworks and languages.
 
 ## 📬 How to Reach Me
-- 💼 **[LinkedIn](https://linkedin.com/in/yourusername)**  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 **Portfolio**: [YourPortfolio.com](https://yourportfolio.com)
+- 💼 **[LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/muhammad-misbahudin-0812gg/))**  
+- 📧 **Email**: [muhammad.misbahudin0812@gmail.com](mailto:muhammad.misbahudin0812@gmail.com)  
+- 🌐 **Portfolio**: [Work-in Progress]()
 
 ---
 
