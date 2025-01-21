@@ -34,7 +34,7 @@ A **fresh graduate** with a passion for **web development** and software enginee
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 🌱 Current Goals
-- Continue learning and improving my skills in **back-end** and **front-end** web development.
+- Continue learning and improving my skills in **front-end** and **back-end** web development.
 - Gain hands-on experience by working on personal projects and collaborating with others.
 - Build scalable and optimized web applications using modern frameworks and languages.
 
