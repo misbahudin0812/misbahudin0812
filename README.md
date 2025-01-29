@@ -12,7 +12,7 @@ A **fresh graduate** with a passion for **web development** and software enginee
   - **[React.js](https://reactjs.org/)** & **[Next.js](https://nextjs.org/)** for building responsive web apps
   - **[TypeScript](https://www.typescriptlang.org/)** for type safety and scalable code
   - And other technologies related to JavaScript ecosystem!
-  - **[C](https://en.wikipedia.org/wiki/C_(programming_language))**, **[Java](https://www.java.com/en/)**, and **[PHP](https://www.php.net/)** for general-purpose programming and back-end frameworks
+  - **[Java](https://www.java.com/en/)**, and **[PHP](https://www.php.net/)** for general-purpose programming and back-end frameworks
   - **[Laravel](https://laravel.com/)** for back-end development with PHP
 - 📈 Always striving to improve my coding skills and learn the latest technologies to stay ahead of the curve.
 - 🌍 Open to collaboration and excited to work on real-world web development projects!
