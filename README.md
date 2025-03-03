@@ -2,7 +2,7 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=username&color=blue)  
 
-A **fresh graduate** with a passion for **web development** and software engineering. I'm currently sharpening my skills in both front-end and back-end technologies, ready to take on challenges and contribute to projects in the world of web development. 🌱
+A **fresh graduate** with a passion for **web development** and software engineering. I'm currently sharpening my skills in both back-end and front-end technologies, ready to take on challenges and contribute to projects in the world of web development. 🌱
 
 ## 🚀 About Me
 - 🎓 **Fresh Graduate** - Eager to start a career in web development and programming.
