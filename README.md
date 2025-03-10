@@ -41,7 +41,7 @@ A **fresh graduate** with a passion for **web development** and software enginee
 ## 📬 How to Reach Me
 - 💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-misbahudin-0812gg)**  
 - 📧 **Email**: [muhammad.misbahudin0812@gmail.com](mailto:muhammad.misbahudin0812@gmail.com)  
-- 🌐 **Portfolio**: [Muhammad Misbahudin's Portfolio](https://muhammad-misbahudin-portfolio.netlify.app/)
+- 🌐 **Portfolio**: [Misbah's Portfolio](https://muhammad-misbahudin-portfolio.netlify.app/)
 
 ---
 
